@@ -1,7 +1,6 @@
-from re import M
 import socket
 
-
+# for message size
 HEADER = 64
 Format = 'UTF-8'
 Port = 5050
